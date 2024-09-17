@@ -113,4 +113,6 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+## 🌐 Check out the project on LinkedIn
+[View my LinkedIn post about MealHaven](https://www.linkedin.com/posts/yassine-slami-5511a2279_title-elevating-meal-planning-unveiling-activity-7241877679136780289-blw8?utm_source=share&utm_medium=member_desktop)
 
