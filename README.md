@@ -79,7 +79,7 @@ Below are the primary API endpoints available in **MealHaven**:
 - **POST** `/address`: Save a new delivery address.
 
 ### Status
-- **GET** `/status`: Check the status of the API.
+- **GET** `/status`: Check the status of the API, so its abt status of API.
 
 ## ⚙️ Models
 
@@ -97,7 +97,7 @@ To run the backend locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mealhaven-backend.git
+   git clone https://github.com/yaasinslami/MealHaven.git
 ```
 
 ### Install the necessary dependencies:
