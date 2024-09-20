@@ -3,7 +3,6 @@ from models.base import BaseData, Base
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship
 
-
 class Meal(BaseData, Base):
     """Meals Data Model"""
     __tablename__ = 'meals'
